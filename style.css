@@ -1,0 +1,31 @@
+header,aside,main,footer{
+    padding: 50px;
+    text-align: center;
+}
+header{
+    background-color:blue ;  
+    width: 900px;
+     height: 100px;
+     margin:10px auto; 
+}
+div{
+    width:900px;
+    margin:10px auto; 
+}
+aside{
+    background-color: chartreuse; 
+    height:300px; 
+    width:300px;
+    float:left;
+}
+main{
+    background-color: cyan; 
+    height:300px;
+    
+}
+footer{
+    background-color: darkmagenta; 
+    width:900px;
+    height:100px;
+    margin:10px auto;
+}
